@@ -1,0 +1,4 @@
+[2024-02-28 17:31:13,521] {'epoch': 50, 'bs': 256, 'use_gpu': True, 'lr': 0.0005, 'emb_dim': 128, 'hid_dim': 32, 'seq_len': 60, 'view_len': 100, 'graph_nums': 2, 'head_nums': 32, 'long_length': 7, 'm1_layers': 3, 'm2_layers': 3, 'm3_layers': 4, 'm4_layers': 2, 'alpha_l': 3, 'neg_nums': 199, 'mask_rate_enc': 0.9, 'mask_rate_dec': 0.9, 'overlap_ratio': 0.75, 'density_ratio': 0.25, 'cs_ratio': 0.25, 'bs_ratio': 0.5, 'model_dir': 'model/', 'log_file': 'log0.txt', 'model': 'sasrec', 'dataset_type': 'amazon', 'domain_type': 'phone_elec', 'isInC': False, 'isItC': False, 'ts1': 0.5, 'ts2': 0.5, 'isCL': True, 'CL_w': 1.0, 'overlap': True}
+[2024-02-28 17:31:14,900] train total loss:3.4887266159057617, cls loss:0.7051020264625549 	
+[2024-02-28 17:31:18,493] train total loss:1.7477181156476338, cls loss:0.6955625925745282 	
+[2024-02-28 17:31:22,096] train total loss:1.2360669011022987, cls loss:0.6945260894007799 	

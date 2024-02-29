@@ -1,0 +1,1 @@
+python train_our.py --model "sasrec" --overlap_ratio 0.75 -dm "phone_elec" --isCL True --CL_w 1.0 
