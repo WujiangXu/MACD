@@ -3,3 +3,14 @@ The code for ECML-PKDD 2024 paper "Towards Open-World Cross-Domain Sequential Re
 
 ## Train/Eval
 >bash run.sh
+
+## Citation
+
+If you found the codes are useful, please cite our paper.
+
+      @article{xu2024towards,
+        title={Towards open-world cross-domain sequential recommendation: A model-agnostic contrastive denoising approach},
+        author={Xu, Wujiang and Ning, Xuying and Lin, Wenfang and Ha, Mingming and Ma, Qiongxu and Chen, Linxun and Han, Bing and Luo, Minnan},
+        journal={ECML-PKDD},
+        year={2024}
+      }
