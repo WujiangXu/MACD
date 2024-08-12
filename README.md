@@ -14,3 +14,6 @@ If you found the codes are useful, please cite our paper.
         journal={ECML-PKDD},
         year={2024}
       }
+
+## Contact us 
+Please feel free to contact us with the email to W. Xu "wujiang dot xu at rutgers dot edu" or "swustimp at gmail dot com".
